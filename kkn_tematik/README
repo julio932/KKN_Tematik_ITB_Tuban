@@ -1,0 +1,20 @@
+Website KKN ITB
+Website resmi Kuliah Kerja Nyata (KKN) Institut Teknologi dan Bisnis Tuban yang dibangun menggunakan PHP dan Bootstrap 5.
+Fitur Utama
+Halaman Publik
+
+Beranda - Informasi umum tentang program KKN ITB
+Tentang - Visi, misi, tujuan, dan sambutan dosen pembimbing
+Berita - Informasi dan kegiatan terbaru KKN
+Program - Daftar program KKN (Pendidikan, Ekonomi, Kesehatan, Lingkungan)
+Galeri - Foto-foto kegiatan KKN
+Kontak - Informasi kontak dan form untuk mengirim pesan
+Materi & Modul - Download materi untuk mahasiswa KKN
+Dokumentasi - Dokumen-dokumen terkait KKN
+
+Dashboard Admin
+
+Kelola Berita - CRUD berita dan kegiatan
+Kelola Galeri - Upload dan kelola foto
+Kelola Materi - Upload materi dan modul KKN
+Statistik - Dashboard dengan jumlah berita, galeri, dan materi
